@@ -7,6 +7,7 @@ Bit-Shifting Operations − This pertains to shifting the positions of the bits 
 
 Arithmetic operations − This refers to bit addition and subtraction. Although multiplication and division are sometimes used, these operations are more expensive to make. Multiplication and subtraction can also be done by repetitive additions and subtractions respectively.
 
+![alu](https://user-images.githubusercontent.com/67804840/108409318-19270280-724c-11eb-9cdf-e786010022c9.jpg)
 
 This is an 4 bit alu. It can perform basic arithmetic and logic functions like addition, subtraction, AND, OR,NOT. To keep it simple i just designed it with this basic functions.
 It can also perform  various status flag operation i.e.(carry,zero,overflow,parity,sign). This flags are generally used in microprocessor.
