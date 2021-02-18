@@ -11,4 +11,4 @@ Arithmetic operations − This refers to bit addition and subtraction. Although 
 
 This is an 4 bit alu. It can perform basic arithmetic and logic functions like addition, subtraction, AND, OR,NOT. To keep it simple i just designed it with this basic functions.
 It can also perform  various status flag operation i.e.(carry,zero,overflow,parity,sign). This flags are generally used in microprocessor. There is specific opcode for every function and it is peroformed in modelsim student version.
-![unnamed](https://user-images.githubusercontent.com/67804840/108415604-c5201c00-7253-11eb-88b4-fdbb006c4286.jpg)
+
